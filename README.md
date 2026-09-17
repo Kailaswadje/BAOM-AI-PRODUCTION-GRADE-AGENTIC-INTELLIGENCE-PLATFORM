@@ -9,6 +9,13 @@ An MSc dissertation project (COMP702, University of Liverpool) that integrates t
 - **Supervisor:** Dr Konstantinos Tsakalidis
 - **GitHub:** [github.com/Kailaswadje](https://github.com/Kailaswadje)
 - **Hugging Face:** [huggingface.co/KailasWadje01](https://huggingface.co/KailasWadje01)
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-Graph%20Database-008CC1?logo=neo4j&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-Agent%20Framework-1C3C3C?logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM%20Inference-000000?logo=ollama&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-GNN-EE4C2C?logo=pytorch&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
