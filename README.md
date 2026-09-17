@@ -10,7 +10,6 @@ An MSc dissertation project (COMP702, University of Liverpool) that integrates t
 - **GitHub:** [github.com/Kailaswadje](https://github.com/Kailaswadje)
 - **Hugging Face:** 
 ---
-[huggingface.co/KailasWadje01](https://huggingface.co/KailasWadje01)
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-Graph%20Database-008CC1?logo=neo4j&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
