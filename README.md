@@ -108,9 +108,9 @@ Module 7 (QLoRA fine-tuning) reads from the same Neo4j instance to generate trai
 | **Companies House UK** | Corporate registry | 20 (`:Company`) + 482 (`:Director`) | 494 (`:DIRECTOR_OF`) | Live UK government REST API |
 
 All three datasets were chosen specifically because they are **structurally distinct**, so that every module could be tested for genuine cross-schema generalisation rather than being implicitly tuned to a single dataset's structure. All three are publicly available, open-licence, non-personal, structured data — see [Ethical Compliance](#ethical-compliance).
+---
 Elliptic Dataset Link: https://www.kaggle.com/datasets/kailaswadje/elliptic
 FB15K-237 Dataset Link: https://www.kaggle.com/datasets/kailaswadje/fb15k-237-dataset
----
 
 ## Repository Structure
 
