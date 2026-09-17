@@ -1,0 +1,48 @@
+{
+  "in_dataset": [
+    {
+      "question": "Which entities are most connected in the graph?",
+      "answer": "Based on the research findings, the most connected entity in the graph is /m/09c7w0, with 7613 connections. This suggests that it is likely a central entity in the graph, with the most links to other entities. The entity with the second-highest degree value, /m/09nqf, has 4286 connections, indicating a moderate level of connectivity. The other entities have significantly lower degree values, suggesting they are less connected to the rest of the graph.\n\nWithout explicit information about the relationships between entities, we can only infer connections based on the degree values. However, /m/09c7w0's high degree value suggests it is a key entity in the graph.\n\nSource: [Local Graph]",
+      "confidence": 0.9,
+      "web_search_used": false,
+      "time_seconds": 82.1
+    },
+    {
+      "question": "Find entities related to /m/06rf7 in the knowledge graph.",
+      "answer": "Based on the provided sources, the entities related to /m/06rf7 in the knowledge graph are:\n\nFrom the local knowledge graph, the related entity /m/06rf7 is related to:\n- /m/0345h (relation type: /location/administrative_division/country)\n- /m/03hrz (relation type: /location/location/adjoins)\n- /m/04p0c (relation type: /location/location/adjoins)\n- /m/09hzw (relation type: /location/location/adjoins)\n- /m/02p72j (relation type: /location/location/contains)\n- /m/0g7pm (relation type: /base/aareas/schema/administrative_area/capital)\n\nFrom the web search result, no specific entities were mentioned that directly relate to /m/06rf7.\n\nIt's worth noting that the web search result provided general information about knowledge graphs and their applications, but did not provide any specific information about the entity /m/06rf7.\n\nSource: Local Graph + Web Search",
+      "confidence": 0.85,
+      "web_search_used": true,
+      "time_seconds": 134.2
+    },
+    {
+      "question": "Find the top 5 most common relationship types.",
+      "answer": "Based on the research findings, the top 5 most common relationship types are:\n\n1. Award nominations -> Awards (15989)\n2. Film release dates -> Awards (12893)\n3. Award nominations -> Award nominations (12157)\n4. People -> Professions (10945)\n5. Actors -> Film performances (9494)\n\nThese relationship types are the most frequently occurring in the research findings. However, it's worth noting that there is a gap in the data, suggesting a missing link between people and film release dates.\n\nSource: [Local Graph]",
+      "confidence": 0.9,
+      "web_search_used": false,
+      "time_seconds": 80.5
+    }
+  ],
+  "out_of_dataset": [
+    {
+      "question": "What is the current price of Bitcoin today?",
+      "answer": "I cannot provide real-time information about the current price of Bitcoin. However, I can provide some general information about Bitcoin prices based on the sources provided. \n\nAccording to the local knowledge graph, the current price of Bitcoin today is not available, with a confidence level of 0.85. This is because the graph contains a 'price' property with a value of None.\n\nOn the other hand, a web search result provides various predictions for Bitcoin's price in 2026. According to the search result, some predictions include a price of $66,232.84, $73,682.65, and $69,586.68 by the end of 2026. However, it's essential to note that these predictions are based on speculative forecasts and esoteric practices, and their accuracy is uncertain.\n\nIt's also worth mentioning that the search result mentions that as of July 2026, the Bitcoin market looks materially weaker than it did in late May and early June, with the current price near the low-$60,000 area.\n\nSource: Local Graph + Web Search",
+      "confidence": 0.85,
+      "web_search_used": true,
+      "time_seconds": 96.8
+    },
+    {
+      "question": "Who won the latest football World Cup?",
+      "answer": "I was unable to find any information on the winner of the latest football World Cup from the local knowledge graph, as the predictions were not found and the graph confidence was low (0.85). However, I was able to find the information from a web search result.\n\nAccording to the web search result, Spain have been crowned FIFA World Cup 2026 winners, following their 1-0 victory over Argentina after extra-time in the final at New York New Jersey Stadium. The web search result also provided a full breakdown of the 2026 FIFA World Cup, including the awards and standings.\n\nThe web search result explicitly stated the winner of the tournament, which contradicts the lack of information found in the local graph. Therefore, the correct answer can be directly stated from the web search result.\n\nSource: [Local Graph: No predictions found for 'GNN: /m/0gk8k' (graph confidence: 0.85); Web Search: Spain have been crowned FIFA World Cup 2026 winners]",
+      "confidence": 0.85,
+      "web_search_used": true,
+      "time_seconds": 196.5
+    },
+    {
+      "question": "What is the weather in London right now?",
+      "answer": "I couldn't find any current weather information in SOURCE 1, the local knowledge graph. However, SOURCE 2, a web search result, provides information on the weather in London for a specific date in 2026.\n\nAccording to the web search result, on a particular day in 2026, the weather in London consisted of overcast and cloudy conditions with mild mid-afternoon temperatures around 7-8\u00b0C (45-46\u00b0F) GMT. The feels-like temperature was approximately 4-7\u00b0C due to wind.\n\nIt's worth noting that this information is from a specific date in 2026 and may not reflect the current weather in London. SOURCE 2 does not provide real-time information, and the weather can change rapidly.\n\nSource: [Local Graph + Web Search]",
+      "confidence": 0.85,
+      "web_search_used": true,
+      "time_seconds": 157.8
+    }
+  ]
+}
